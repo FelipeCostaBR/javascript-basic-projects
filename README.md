@@ -1,4 +1,4 @@
-#Vanilla Javascript Projects
+# Vanilla Javascript Projects
 
 ## You can see all projects in action bellow
 
